@@ -34,5 +34,5 @@ model <- wbm(lwage ~ lag(union) + wks, data = wages)
 # Returns the original model formula rather than the one sent to lme4
 formula(model)
 #> lwage ~ lag(union) + wks
-#> <environment: 0x560843520bd8>
+#> <environment: 0x559e498cdd10>
 ```

@@ -93,7 +93,7 @@ line_plot(wages, lwage, add.mean = TRUE, subset.ids = TRUE, overlay = FALSE)
 #> Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
 #> ℹ Please use `linewidth` instead.
 #> ℹ The deprecated feature was likely used in the panelr package.
-#>   Please report the issue at <https://github.com/jacob-long/panelr>.
+#>   Please report the issue at <https://github.com/jacob-long/panelr/issues>.
 #> `geom_smooth()` using formula = 'y ~ x'
 
 ```
